@@ -1,7 +1,10 @@
 Netflix -GPT
 
-create react app
-Setup Tailwind css
+- create react app
+- Setup Tailwind css
+- Header
+- Login
+- LoginForm
 
 # Features
 
